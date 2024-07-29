@@ -27,7 +27,7 @@ I have a strong foundation in **React JS development** and am keen on expanding 
 
 ## Projects and Learning
 
-- **Excel Learning**: [Click Here](https://parveen-simba.github.io/Excel.github.io/)
+- **Excel Learning**: [Click Here](https://parveen-simba.github.io/parveen-excel-learning)
 - **My Experience at GNDEC**: [Click Here](https://amangndec.github.io/learning.github.io/)
 
 ## Connect with Me
