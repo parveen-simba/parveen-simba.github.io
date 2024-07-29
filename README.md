@@ -12,3 +12,13 @@ Hello everyone, my name is **Parveen Advani**. I am **seventeen** years old and 
 |  Computer    |    98          |
 |  Physics     |    93          |
 |  Chemistry   |    88          |
+
+#### My excel learning:- [Click Here](https://amangndec.github.io/Excel.github.io/)
+
+#### My experience at GNDEC:- [Click Here](https://amangndec.github.io/learning.github.io/)
+
+#### Instagram:- [Click Here](https://www.instagram.com/aman_veer_9898/)
+
+#### Linkedin:- [Click Here](https://www.linkedin.com/in/amanveer-singh-281ab531b/)
+
+#### Email:- [Click Here](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSKjgCQpGrbWqkRbsxfkmTkTnSrMvClBRlTRBNPldwNKbQxDqxZDdTmrNKfLXDBfFgKCVCXs)
