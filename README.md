@@ -1,6 +1,6 @@
 # Parveen Advani's Portfolio
 
-Hello everyone! My name is **Parveen Advani**. I am **seventeen** years old, and I have completed my 12th grade from **Saint Francis School** in the **Amritsar** district of Punjab. My school follows the ICSE curriculum, and I achieved an overall percentage of **89%** in my 12th grade. My hobbies include cricket and coding, and I am incredibly passionate about technology and software development. Currently, I am pursuing a B.Tech in **Information Technology** at **Guru Nanak Dev Engineering College in Ludhiana**.
+Hello everyone! My name is **Parveen Advani**. I am **seventeen** years old, and I have completed my 12th grade from **Saint Francis School** in the **Amritsar** district of Punjab. My school follows the ICSE curriculum, and I achieved an overall percentage of **92%** in my 12th grade. My hobbies include cricket and coding, and I am incredibly passionate about technology and software development. Currently, I am pursuing a B.Tech in **Information Technology** at **Guru Nanak Dev Engineering College in Ludhiana**.
 
 ![Profile Picture](https://github.com/user-attachments/assets/960b1827-94dd-4e40-a544-17d6d4d48e8b)
 
