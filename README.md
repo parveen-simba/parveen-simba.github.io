@@ -32,7 +32,7 @@ I have a strong foundation in **React JS development** and am keen on expanding 
 
 ## Connect with Me
 
-- **Instagram**: [Click Here](https://www.instagram.com/aman_veer_9898/)
+- **Instagram**: [Click Here](https://www.instagram.com/official_parveen03?igsh=aHNnb24zcjBvMDI4)
 - **LinkedIn**: [Click Here](https://www.linkedin.com/in/amanveer-singh-281ab531b/)
 - **Email**: [Click Here](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSKjgCQpGrbWqkRbsxfkmTkTnSrMvClBRlTRBNPldwNKbQxDqxZDdTmrNKfLXDBfFgKCVCXs)
 
